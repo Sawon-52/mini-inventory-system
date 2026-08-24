@@ -1,0 +1,14 @@
+F:\c#\miniInventory\bin\Debug\net10.0\miniInventory.exe
+F:\c#\miniInventory\bin\Debug\net10.0\miniInventory.deps.json
+F:\c#\miniInventory\bin\Debug\net10.0\miniInventory.runtimeconfig.json
+F:\c#\miniInventory\bin\Debug\net10.0\miniInventory.dll
+F:\c#\miniInventory\bin\Debug\net10.0\miniInventory.pdb
+F:\c#\miniInventory\obj\Debug\net10.0\miniInventory.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\miniInventory\obj\Debug\net10.0\miniInventory.AssemblyInfoInputs.cache
+F:\c#\miniInventory\obj\Debug\net10.0\miniInventory.AssemblyInfo.cs
+F:\c#\miniInventory\obj\Debug\net10.0\miniInventory.csproj.CoreCompileInputs.cache
+F:\c#\miniInventory\obj\Debug\net10.0\miniInventory.dll
+F:\c#\miniInventory\obj\Debug\net10.0\refint\miniInventory.dll
+F:\c#\miniInventory\obj\Debug\net10.0\miniInventory.pdb
+F:\c#\miniInventory\obj\Debug\net10.0\miniInventory.genruntimeconfig.cache
+F:\c#\miniInventory\obj\Debug\net10.0\ref\miniInventory.dll
